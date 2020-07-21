@@ -1,4 +1,4 @@
-### Hi I'm Abhyudaya 👨‍💻
+## Hi, I'm Abhyudaya 👨‍💻
 
 I'm a student of Computer Science at Shiv Nadar University.
 
